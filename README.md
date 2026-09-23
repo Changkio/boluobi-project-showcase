@@ -47,5 +47,4 @@
 
 ## 本说明的范围
 
-以上描述用于展示实际参与的算法、产品与市场工作。公开的 `geo-toolkit`、`traffic-flow-forecast`、`critic-entropy-weight` 是另行整理的 AI 生成学习演示，与本项目的商业实现相互独立。
-
+以上描述用于展示实际参与的算法、产品与市场工作。公开的 `geo-toolkit`、`traffic-flow-forecast`、`critic-entropy-weight` 提供相关方法的学习示例，与本项目的商业实现相互独立。
